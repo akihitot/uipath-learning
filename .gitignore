@@ -1,0 +1,6 @@
+﻿.local/
+.settings/
+.objects/
+**/bin/
+**/obj/
+*.log

@@ -1,0 +1,6 @@
+{
+  "Name": "AssociateBasics",
+  "ProjectType": "Process",
+  "Description": "UiPath Associate資格取得に向けた基礎学習用プロジェクト",
+  "MainFile": "Main.xaml"
+}
