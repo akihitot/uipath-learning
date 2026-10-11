@@ -9,6 +9,7 @@
 | 全体の予定・48タスクの索引 | [工程表](docs/schedule.md) |
 | 着手・進捗・完了の管理 | [GitHub Issues](https://github.com/akihitot/uipath-learning/issues) |
 | 日本語で基礎を理解する | [日本語学習ガイド](docs/japanese-guide.md) |
+| 実習中の疑問・エラーの理由を復習する | [学習Q&A・つまずきメモ](docs/learning-qa.md) |
 | 日次記録と毎週金曜の振り返り | [学習記録](docs/learning-log.md) |
 | 模試・受験の記録方法 | [模試・受験記録](docs/exam-log.md) |
 | 制作テーマ候補10個 | [制作テーマ](docs/robot-themes.md) |
